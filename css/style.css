@@ -2,13 +2,20 @@
   width: 100%;
   max-width: 150px;
 }
+.title {
+  font-size: 2em;
+}
 .red {
   color: red;
 }
-.paragrap-1 {
+.paragraph {
   color: #fff;
   background: blue;
   max-width: 100px;
+  margin-bottom: 80px;
+}
+.title-2 {
+  font-size: 1.5em;
 }
 .green {
   color: #ffff;
